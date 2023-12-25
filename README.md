@@ -60,7 +60,7 @@ Enter Current Reading:
 ```
 # OUTPUT (9a):
 
-![Alt text](<Screenshot 2023-12-24 113255.png>)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/fcff9d0a-5d10-4f59-bce5-cfcf980d3d4a)
 
 
 # Ex-09(b) :
@@ -118,7 +118,8 @@ Enter Number: <input type="text" id="num">
 ```
 ## OUTPUT (9b): 
 
-![Alt text](<Screenshot 2023-12-24 113810.png>)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/8b969f12-ff4a-488b-8bbd-f4ccff6e9a2a)
+
 
 # Ex-09(c)
 # AIM
@@ -194,7 +195,8 @@ Repeat steps 2 and 3 until ‘N’ prime numbers have been generated.
 
 ## OUTPUT (9c):
 
-![Alt text](<Screenshot 2023-12-24 115645.png>)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/64348327-aa21-46b5-bdfa-89826ead3ca3)
+
 
 # DESIGN STEPS: 9(d)
 
@@ -267,11 +269,12 @@ function divide() {
 
 ## OUTPUT (9d):
 
-![Alt text](<Screenshot 2023-12-24 122356.png>)
-![Alt text](<Screenshot 2023-12-24 122201.png>)
-![Alt text](<Screenshot 2023-12-24 122210.png>)
-![Alt text](<Screenshot 2023-12-24 122226.png>)
-![Alt text](<Screenshot 2023-12-24 122301.png>)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/16455d27-6300-4d2a-8ae8-e999609f9aed)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/2c80df17-cdc6-413b-bfb4-4357a0a877b8)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/d9ca5c45-e59f-4f00-a9d7-869044052d9d)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/18aedd17-edc9-4f25-a3e1-20ae6b388c14)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/cc21275c-b697-43e1-96a0-16225bf642ab)
+
 
 # Ex-09(e):
 
@@ -363,17 +366,17 @@ document.getElementById("num").style.fontStyle = "normal";
 ```
 ## OUTPUT (9e):
 
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/9e77961a-5362-4dc7-acc3-d1a6cc2647df)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/1197c798-c3eb-44cd-b004-97fc10cac0b5)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/704746b1-af60-4e57-b335-1a7716322202)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/b3f6ed23-a4ad-4cf7-9290-1dca20ed879e)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/adc4b8a8-2cec-4d3f-b3b1-db411558d333)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/0a3b0d61-e792-49cd-a3fb-2abcf18de45d)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/da26a713-c0eb-43da-b319-59a1c0f4685c)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/87414485-a02c-435e-9bd9-e2bdf24b72ad)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/3f7de93e-d913-47d6-8157-640697d5c68c)
+![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/0b6ea8f2-06c9-43ac-aa65-b783f25ebf1e)
 
-![Alt text](<Screenshot 2023-12-24 123536.png>)
-![Alt text](<Screenshot 2023-12-24 123548.png>)
-![Alt text](<Screenshot 2023-12-24 123558.png>)
-![Alt text](<Screenshot 2023-12-24 123609.png>)
-![Alt text](<Screenshot 2023-12-24 123620.png>)
-![Alt text](<Screenshot 2023-12-24 123632.png>)
-![Alt text](<Screenshot 2023-12-24 123642.png>)
-![Alt text](<Screenshot 2023-12-24 123655.png>)
-![Alt text](<Screenshot 2023-12-24 123707.png>)
-![Alt text](<Screenshot 2023-12-24 123717.png>)
 
 # Ex-09(f):
 
@@ -437,6 +440,7 @@ function validateForm() {
 ```
 
 ## OUTPUT (9f):
- 
-![Alt text](<Screenshot 2023-12-24 124303.png>)
+
+ ![image](https://github.com/23008344/ODD23-24-WT-JavaScript/assets/145742655/0eaf28ce-3869-44f3-ad73-232a7eddb503)
+
 
