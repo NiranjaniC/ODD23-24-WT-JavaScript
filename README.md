@@ -1,4 +1,6 @@
 # ODD23-24-WT-JavaScript
+Name:Niranjani.C
+Registration Number:212223220069
 ## Ex-09(a)
  # AIM
 Create a form with java script code to calculate electricity bill.
